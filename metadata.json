@@ -1,0 +1,7 @@
+{
+  "name": "Bidlock - Confidential NFT Marketplace",
+  "description": "A high-end NFT and ENS marketplace utilizing Zama's Fully Homomorphic Encryption (FHE) for confidential bidding. Features include privacy-preserving auctions, AI-driven market analysis, and a sleek, modern UI designed for high-value digital asset trading.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
